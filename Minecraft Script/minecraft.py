@@ -6,15 +6,16 @@ import threading
 from pynput.keyboard import Listener, KeyCode
 import time
 import os
+import pydirectinput
 
 start_stop_key = KeyCode(char='=')
 start_key = KeyCode(char='-')
 
 def walk():
-    # pyautogui.keyDown('w')
-    # pyautogui.mouseDown(button='right')
-    pyautogui.mouseDown()
-    threading.Timer(1, walk).start()
+    # pydirectinput.keyDown('w')
+    pyautogui.mouseDown(button='right')
+    # pyautogui.mouseDown()
+    # threading.Timer(1, walk).start()
 
 # walk()
 
