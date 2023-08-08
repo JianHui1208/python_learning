@@ -2,3 +2,17 @@ what is cat?
 Cat is a animals and it is cute.
 asd
 I don't know what you're talking about.
+how are you?
+I am good and you?
+I am good also
+great
+byebye
+byebye
+what is chatbot?
+chatbot is a computer program that simulate human conversation.
+who are you?
+I am chatbot, made by the chatterbot.
+what is ai?
+artificial intelligence is a branch of computer science that aims to create intelligent machines.
+hi
+hi, how can I help you?
